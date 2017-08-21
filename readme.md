@@ -1,6 +1,8 @@
-# Electron Boilerplate
-## A template for developing electron apps
+# Electron App Boilerplate
+## A (WIP) template for developing electron apps
 
-I use this as a baseline for whenever I write electron apps.
+I'm using this as a baseline for whenever I write electron apps. It is (currently) based on the electron quickstart guide.
 It has all the basic bells/whistles necessary.
-Frameless is commented out by default.
+
+TODO:
+- Add frameless options
