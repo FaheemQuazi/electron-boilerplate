@@ -10,6 +10,6 @@
   "author": "Faheem Quazi",
   "license": "ISC",
   "dependencies": {
-    "electron": "^1.7.5"
+    "electron": "^9.1.0"
   }
 }
